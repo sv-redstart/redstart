@@ -1,4 +1,14 @@
 {
+    "name": "redstart/redstart",
+    "description": "Redstart framework sceleton",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Serebryanskiy",
+            "email": "silver.redstart@gmail.com"
+        }
+    ],
     "require": {
         "redstart/framework": "^0.1.0"
     }
