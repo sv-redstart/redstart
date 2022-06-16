@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "246f1b56745331c9d15d8e7372d3b4ff",
+    "packages": [
+        {
+            "name": "redstart/framework",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sv-redstart/framework.git",
+                "reference": "07dcc2c1db51d40343015261eccee75c2371832b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sv-redstart/framework/zipball/07dcc2c1db51d40343015261eccee75c2371832b",
+                "reference": "07dcc2c1db51d40343015261eccee75c2371832b",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Core\\": "src/Core/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vladimir Serebryanskiy",
+                    "email": "silver.redstart@gmail.com"
+                }
+            ],
+            "description": "Redstart framework",
+            "support": {
+                "issues": "https://github.com/sv-redstart/framework/issues",
+                "source": "https://github.com/sv-redstart/framework/tree/0.1.0"
+            },
+            "time": "2022-06-16T12:28:04+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
